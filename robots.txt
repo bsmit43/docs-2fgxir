@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-tvs9qp.salamkita.sbs/sitemap.xml
